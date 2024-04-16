@@ -10,7 +10,7 @@ API: [crossfi-testnet-api.circledao.xyz](https://crossfi-testnet-api.circledao.x
 RPC: [crossfi-testnet-rpc.circledao.xyz](https://crossfi-testnet-rpc.circledao.xyz)
 
 
-## Tnstall go
+## Install go
 ```
 cd $HOME
 VER="1.21.3"
